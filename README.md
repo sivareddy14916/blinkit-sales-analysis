@@ -1,7 +1,7 @@
 # Blinkit Grocery Sales Analysis
 
 ## Project Overview
-This project analyzes Blinkit grocery sales data using SQL, Python, and Power BI to identify sales trends, outlet performance, customer preferences, and business insights.
+This project analyzes Blinkit grocery sales data using SQL, Python, Power BI and Excel to identify sales trends, outlet performance, customer preferences, and business insights.
 
 ---
 
@@ -13,6 +13,7 @@ This project analyzes Blinkit grocery sales data using SQL, Python, and Power BI
 - Matplotlib
 - Seaborn
 - Power BI
+- Excel
 
 ---
 
@@ -46,9 +47,13 @@ This project analyzes Blinkit grocery sales data using SQL, Python, and Power BI
 
 ---
 
-## Dashboard Preview
+## Dashboard Preview for PowerBI
 
 ![Dashboard](Images/dashboard.png)
+
+## Dashboard Preview for Excel
+
+![Dashboard](Excel/excel_dashboard.png)
 
 ---
 
@@ -80,4 +85,5 @@ blinkit-sales-analysis/
 - `SQL/` → SQL analysis queries
 - `Python/` → Python EDA notebook
 - `POWERBI/` → Power BI dashboard
-- `Images/` → Dashboard screenshots
+- `Excel/` → Excel dashboard
+- `Images/` → Dashboard screenshots and KPI visuals images 
